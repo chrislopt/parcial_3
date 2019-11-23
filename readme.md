@@ -1,2 +1,2 @@
 ultimo parcial de materia programacion web
-COnsiste en crear una RESTful API. Sobre una entidad llamada: Dias festivos, que tendra: nombre de la celebracion, fecha(nuestro pais),origen, duracion, es asueto?
+Consiste en crear una RESTful API. Sobre una entidad llamada: Dias festivos, que tendra: nombre de la celebracion, fecha(nuestro pais),origen, duracion, es asueto?
